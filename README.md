@@ -18,7 +18,7 @@ template: YOUR_VALUE
 python3 -m venv .venv
 ```
 
-## Windows venv activation
+### Windows venv activation
 
 In cmd.exe
 
@@ -32,7 +32,7 @@ In PowerShell
 venv\Scripts\Activate.ps1
 ```
 
-## Linux and MacOS venv activation
+### Linux and MacOS venv activation
 
 ```
 $ source myvenv/bin/activate
