@@ -1,4 +1,6 @@
-# README
+# Apply agent template to all agents
+
+This is an example python script that shows you how you can apply an agent template to all agents in your company.
 
 ## Setup config.ini
 
